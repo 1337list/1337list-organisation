@@ -1,2 +1,2 @@
 # organisation
-This repository is used for organisation-wide tasks.
+This repository is for organisation-wide tasks.
